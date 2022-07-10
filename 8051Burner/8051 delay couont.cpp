@@ -59,6 +59,9 @@ string n,temp;
 int main() {
 while(n!="n") {
 system("cls");	
+
+cout<<"Enter clock frequancy: ";
+cin>>cf;
 	
 cout<<"enter time in ms: ";
 cin>>time;
